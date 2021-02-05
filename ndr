@@ -1,0 +1,3 @@
+#!/bin/bash
+./node_modules/.bin/$@
+#A short litle program developed by Evan Viele to run node modules without typing out the whole path! :D
